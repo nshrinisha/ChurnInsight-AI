@@ -103,14 +103,14 @@ ChurnInsight-AI/
 - Python 3.x
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost
 
-## Authors ✍️
+## Authors ✍
 
 - Aiswaryaa Velumani
 - Sai Teja Aggunna
 - Shrinisha Nirmalkumar
 - Vaishnavi Pathipati
 
-## Acknowledgments 🙏
+## Acknowledgments 
 
 - **Dataset Source:** Kaggle
 
