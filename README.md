@@ -92,7 +92,6 @@ The dataset, sourced from Kaggle, contains information on 10,000 customers from 
 ```
 ChurnInsight-AI/
 ├── data/                # Dataset and processed data files
-├── models/              # Saved models and results
 ├── notebooks/           # Jupyter notebooks for EDA and modeling
 ├── results/             # Visualizations and performance metrics
 ├── README.md            # Project overview and instructions
