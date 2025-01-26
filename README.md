@@ -114,5 +114,8 @@ ChurnInsight-AI/
 ## Acknowledgments 🙏
 
 - **Dataset Source:** Kaggle
+- 
+---
 
+For further questions or contributions, feel free to open an issue or submit a pull request! ✨
 
